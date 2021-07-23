@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="bug_report">Rapporter un bug</string>
+    <string name="album_art">Pochette d\'album</string>
+    <string name="network_error">Erreur de réseau</string>
+    <!--  todo: don't concat  -->
+    <!-- presets-->
+    <!--  pro  -->
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <plurals name="num_scrobbles_noti">
+        <item quantity="other">%1$s</item>
+    </plurals>
+    <string name="settings">设置</string>
+    <string name="bug_report">Bug 报告</string>
+    <string name="album_art">专辑封面</string>
+    <string name="parse_error" comment="Title parsing error for Youtube etc">无法解析标题</string>
+    <string name="network_error">网络异常</string>
+    <string name="required_fields_empty" comment="Shown on filling a form">必填字段不能为空</string>
+    <string name="artist">艺术家</string>
+    <string name="artists">艺术家</string>
+    <string name="n_artists">%1$s 位艺术家</string>
+    <string name="top_artists">热门艺术家</string>
+    <string name="album_artist">专辑艺术家</string>
+    <string name="similar_artists">相似的艺术家</string>
+    <string name="album_optional">专辑（可选）</string>
+    <string name="album">专辑</string>
+    <string name="albums">专辑</string>
+    <string name="n_albums">%1$s 张专辑</string>
+    <string name="top_albums">热门专辑</string>
+    <string name="track">曲目</string>
+    <string name="tracks">曲目</string>
+    <string name="n_tracks">%1$s 首曲目</string>
+    <string name="top_tracks">热门曲目</string>
+    <string name="similar_tracks">相似的曲目</string>
+    <string name="no_similar_tracks">未找到相似的曲目</string>
+    <string name="similar" comment="Similar tracks but in short">相似的</string>
+    <string name="artist_title" formatted="true" comment="$artist — $title">%1$s — %2$s</string>
+    <string name="state_scrobbling">正在抓取…</string>
+    <string name="tap_to_edit">（点击以编辑）</string>
+    <string name="recently_scrobbled">最近的抓取</string>
+    <string name="recently_loved">♥ 最近喜爱的</string>
+    <string name="recents">最近的</string>
+    <string name="graph_info">… 过去 5 个月</string>
+    <string name="enabled_apps">已启用的应用</string>
+    <string name="music_players">音乐播放器</string>
+    <string name="video_players">视频串流应用</string>
+    <string name="other_apps">其他应用</string>
+    <string name="choose_apps">选择要抓取的应用</string>
+    <string name="unavailable_offline">离线时不可用</string>
+    <string name="scrobble_services" comment="Services like lastfm, librefm, listenbrainz etc">服务</string>
+    <string name="share_sig">（通过 Pano Scrobbler）</string>
+    <string name="share_this_song">分享这首歌曲</string>
+    <string name="share">分享</string>
+    <string name="more_info">更多信息</string>
+    <string name="search">搜索</string>
+    <string name="show_all">查看所有</string>
+    <string name="edit">编辑</string>
+    <string name="delete">删除</string>
+    <string name="love">喜爱</string>
+    <string name="unlove">不再喜爱</string>
+    <string name="friends">好友</string>
+    <string name="rate_msg">喜欢这个应用吗？</string>
+    <string name="rate_action">去打分</string>
+    <string name="no_mail_apps">未安装电子邮件客户端。</string>
+    <string name="loved">喜爱的</string>
+    <string name="unloved">不再喜爱的</string>
+    <string name="simple_edits">编辑</string>
+    <string name="grant_rec_perm">请授予使用麦克风的权限</string>
+    <string name="charts">图表</string>
+    <string name="scrobble_from_mic">从麦克风抓取</string>
+    <string name="add_to_hs">添加到主屏幕</string>
+    <string name="listening">正在聆听您周围播放的音乐…</string>
+    <string name="uploading">正在上传...</string>
+    <string name="recording_failed">无法开始录制。麦克风可能正忙或在此设备上不可用</string>
+    <!--  todo: don't concat  -->
+    <string name="collapse">折叠</string>
+    <string name="expand">展开</string>
+    <string name="a_to_b" formatted="true" comment="%1= date %2= date">%1$s 至 %2$s</string>
+    <string name="weekly_range" formatted="true" comment="%1= date %2= date">每周（%1$s 至 %2$s）</string>
+    <string name="share_this_chart">分享此图表</string>
+    <string name="charts_choose_week">选择一周</string>
+    <string name="charts_overall">总览</string>
+    <string name="random">手气不错</string>
+    <string name="random_not_found">未找到曲目</string>
+    <string name="loved_track">喜爱的曲目</string>
+    <string name="tag">标签</string>
+    <string name="my_tags">我的标签</string>
+    <string name="close">关闭</string>
+    <string name="user_tags_hint">新建标签</string>
+    <string name="user_tags_empty">您尚未添加任何标签</string>
+    <string name="appwidget_loading">正在加载…</string>
+    <string name="appwidget_theme">主题</string>
+    <string name="appwidget_refresh_every">小部件将每15分钟刷新一次</string>
+    <string name="primary_color">主要颜色</string>
+    <string name="secondary_color">次要颜色</string>
+    <string name="background_color">背景颜色</string>
+    <string name="random_theme">每次启动时随机显示</string>
+    <string name="palette_bg">对某些背景使用专辑封面颜色</string>
+    <string name="edit_case_sensitive">区分大小写</string>
+    <string name="edit_presets">预设</string>
+    <string name="edit_presets_available">可用预设</string>
+    <string name="edit_no_presets_available">正在使用所有预设</string>
+    <string name="edit_preset_name" formatted="true" comment="%1= preset name">预设：%1$s</string>
+    <!-- presets-->
+    <string name="pref_master">抓取音乐</string>
+    <string name="pref_noti">通知</string>
+    <string name="pref_scrobble_noti">抓取通知</string>
+    <string name="pref_lockscreen_noti">锁屏界面通知</string>
+    <string name="pref_scrobble_from">抓取来源</string>
+    <string name="pref_enabled_apps_summary">ℹ️ 支持可以显示音乐元数据的应用。为了避免在 Spotify 中出现重复抓取，只能在一个地方启用它。</string>
+    <string name="pref_enabled_apps_title">选择应用</string>
+    <string name="pref_delay">抓取延迟（以较早者为准）</string>
+    <string name="pref_delay_secs">延迟秒数</string>
+    <string name="pref_delay_per">延迟比例</string>
+    <string name="pref_about">关于</string>
+    <string name="pref_fetch_aa">从 lastFM 获取专辑艺术家</string>
+    <string name="pref_misc">杂项</string>
+    <string name="pref_imexport">导入 &amp; 导出</string>
+    <string name="pref_export_desc">备份设置、编辑和黑名单。出于安全原因不保存登录信息。用于在设备之间移动或与朋友共享。</string>
+    <string name="pref_import">导入</string>
+    <string name="pref_personalization">个性化</string>
+    <string name="pref_themes">主题</string>
+    <string name="pref_themes_desc">混合与配对\n同时更改通知颜色</string>
+    <string name="pref_widget_charts">主屏幕小部件 - 图表</string>
+    <string name="pref_show_albums">显示专辑名称</string>
+    <string name="pref_translate">翻译本应用</string>
+    <!--  pro  -->
+    <string name="get_pro">支持本应用</string>
+</resources>
